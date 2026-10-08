@@ -4,7 +4,7 @@
 This dashboard analyzes the price dynamics of lithium carbonate (Li₂CO₃) and their correlation with electric vehicle (EV) sales. It helps battery manufacturers and traders identify the best months to procure raw materials.
 
 ## Live Demo
-[Link will be added after Streamlit Cloud deployment]
+[Open the dashboard](https://lithium-price-analysis.streamlit.app)
 
 ## Screenshots
 
