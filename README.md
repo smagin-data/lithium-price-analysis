@@ -39,11 +39,14 @@ This tool helps procurement managers identify seasonal price dips and plan purch
 ## How to Run
 
 ### Local setup
+
 ```bash
 # Create a virtual environment (recommended)
 python -m venv venv
-source venv/bin/activate        # Mac/Linux
-# venv\Scripts\activate         # Windows
+
+# Activate it
+venv\Scripts\activate          # Windows
+# source venv/bin/activate     # Mac/Linux
 
 # Install dependencies
 pip install -r requirements.txt
@@ -62,6 +65,3 @@ streamlit run app.py
 - `forecast.csv` — 6-month price forecast
 - `requirements.txt` — dependencies
 - `LICENSE` — MIT license
-
-## Author
-**Timofey Smagin**
